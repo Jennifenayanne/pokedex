@@ -17,3 +17,24 @@ main{
     margin-top: 2px;
     padding: 15px;
 }
+
+pokedex{
+    width: 100%;
+    max-width: 600px;
+}
+
+.pokemon_img{
+    position: absolute;
+    bottom: 55%;
+    left: 50%;
+    transform: translate(-63%,20%);
+    height: 10%;
+}
+
+.pokemon_data{
+    position: absolute;
+    font-weight: 600px;
+    color:blueviolet;
+    top: 54.5%;
+    
+}
